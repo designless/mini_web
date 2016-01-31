@@ -1,0 +1,6 @@
+.DS_Store
+videos/
+fonts/
+*.pdf
+*.sass-cache
+build/
